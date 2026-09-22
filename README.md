@@ -1,4 +1,4 @@
-pm grant jp.co.c_lis.ccl.morelocale android.permission.CHANGE_CONFIGURATIONpm grant jp.co.c_lis.ccl.morelocale android.permission.CHANGE_CONFIGURATION# Shizuku
+adb shell /data/app/~~f2ZNKC0CqaiseIZ8ePrr-A==/moe.shizuku.privileged.api-ebxg0XYs9XdnanuQ7gcYUA==/lib/arm64/libshizuku.sopm grant jp.co.c_lis.ccl.morelocale android.permission.CHANGE_CONFIGURATIONpm grant jp.co.c_lis.ccl.morelocale android.permission.CHANGE_CONFIGURATION# Shizuku
 
 ## Background
 
