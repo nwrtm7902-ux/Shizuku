@@ -1,4 +1,4 @@
-# Shizuku
+pm grant jp.co.c_lis.ccl.morelocale android.permission.CHANGE_CONFIGURATION# Shizuku
 
 ## Background
 
